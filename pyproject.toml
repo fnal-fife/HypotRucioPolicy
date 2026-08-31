@@ -1,0 +1,6 @@
+[project]
+name = "HypotRucioPolicy"
+version = "0.1.0"
+description = "Rucio Policy Package for Hypot Experiment"
+readme = "README.md"
+requires-python = ">=3.9"
